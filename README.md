@@ -1,4 +1,4 @@
-# Roll_Number - Technical Indicators with Neural Network Integration
+# Technical Indicators with Neural Network Integration
 
 ## Project Overview
 
